@@ -111,3 +111,5 @@ src/
 ```
 
 ## Monitoramento de Uso
+
+<img width="1856" height="960" alt="image" src="https://github.com/user-attachments/assets/38f92ddd-66f7-443e-a96b-5f86bf6478d3" />
