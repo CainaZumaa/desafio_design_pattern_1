@@ -1,4 +1,4 @@
-# Crypto Monitor
+# Crypto Monitor 🟡
 
 Aplicativo de console para monitoramento de preços de criptomoedas em tempo real com sistema de alertas configurável.
 
