@@ -1,0 +1,14 @@
+{
+  "defaultCurrency": "bitcoin",
+  "apiKey": "373e96fe-8176-4661-a45c-48017789b3a4",
+  "alertStrategies": {
+    "threshold": {
+      "buyThreshold": 0,
+      "sellThreshold": 130000
+    },
+    "variation": {
+      "percentageThreshold": 5,
+      "timeWindowMinutes": 720
+    }
+  }
+}
